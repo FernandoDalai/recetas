@@ -1,0 +1,2 @@
+#Carpetas que no queramos incluir
+__pycache__
